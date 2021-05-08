@@ -4,7 +4,7 @@ export const NavContent = [
   { id: 3, name: "WATCHLIST", url: "/images/watchlist-icon.svg" },
   { id: 4, name: "ORIGINALS", url: "/images/original-icon.svg" },
   { id: 5, name: "MOVIES", url: "/images/movie-icon.svg" },
-  { id: 5, name: "SERIES", url: "/images/series-icon.svg" },
+  { id: 6, name: "SERIES", url: "/images/series-icon.svg" },
 ];
 
 export const ViewersContent = [
