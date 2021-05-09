@@ -14,7 +14,7 @@ function App() {
         <Header />
         <Switch>
           <Route path="/login" component={Login} />
-          <Route path="/detail" component={Detail} />
+          <Route path="/detail/:id" component={Detail} />
           <Route path="/" component={Home} />
         </Switch>
       </Router>

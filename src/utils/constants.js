@@ -14,3 +14,10 @@ export const ViewersContent = [
   { id: 4, url: "/images/viewers-starwars.png" },
   { id: 5, url: "/images/viewers-national.png" },
 ];
+
+export const slideContent = [
+  { id: 1, url: "/images/slider-badging.jpg" },
+  { id: 2, url: "/images/slider-badag.jpg" },
+  { id: 3, url: "/images/slider-scale.jpg" },
+  { id: 4, url: "/images/slider-scales.jpg" },
+];
